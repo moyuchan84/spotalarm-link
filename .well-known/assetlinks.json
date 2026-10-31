@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mindstartium.spotalarm",
+      "sha256_cert_fingerprints": [
+        "A1:1A:BD:8B:1C:71:DE:6D:F4:87:5B:C5:B0:48:7A:31:89:0B:37:76:A4:68:EB:89:DD:CE:05:8C:63:DE:15:90",
+        "6D:81:A0:54:A6:B7:77:B3:EC:D2:99:2D:A0:B3:2C:C1:3E:2A:39:57:2D:CD:1C:78:09:DB:C9:CC:53:CD:CB:33"
+      ]
+    }
+  }
+]
